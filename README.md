@@ -3,8 +3,9 @@ Esta nueva personalizacion manera los colores negro y azul como tema principal.
 
 ![preview](./img/preview2.png)
 
-![window1](./preview1.png)
+![window1](./img/preview1.png)
 
+See also: https://github.com/GuillermoGAndres/Dracula
 
 #### Installation
 
