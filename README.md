@@ -1,10 +1,7 @@
 Este es un fork de https://github.com/EliverLara/Ant la cual se puede encontrar en https://www.gnome-look.org/p/1099856/ .
 Esta nueva personalizacion manera los colores negro y azul como tema principal.
 
-![](Art/logo.png)
-
-![](Art/Dracula.png)
-
+![preview](./img/preview2.png)
 
 #### Installation
 
