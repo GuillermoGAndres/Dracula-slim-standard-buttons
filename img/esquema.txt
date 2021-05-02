@@ -11,25 +11,37 @@ Principal
 Nagacion lateral
 #202126     ->      #0f0f0f
 
-Menu contexto
-#242530     ->      
+Select options
+#242530     ->     #222222      
 
 window inactive
 #2a2c39     ->      #212121
 
-Color principal
+Color de varios widget
 rgba(189, 147, 249)    -> rgba(119, 163, 196)
 
-Color de navegacion
+Color de letras y iconos
 #bd93f9         ->   #77a3c4
 
 
 gtk-3.20/gtk-dar.css
+Para algunas aplicacion utilizan este archivo es vez del otro como terminal o chrome.
 
 Original                Fork
+Window-up
 #1e1f2a ->  #090909
+
+Principal
 #282a36   -> #202020
 
 tab inactive
 #2a2c34  -> #212121
 
+Select options
+#242530     ->     #222222
+
+Color de varios widget
+rgba(189, 147, 249)    -> rgba(119, 163, 196)
+
+Color de letras y iconos
+#bd93f9         ->   #77a3c4
