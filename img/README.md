@@ -14,6 +14,6 @@ Bosquejos, pueden servir por si se necesita modificar los colores uno mismo.
 
 ![window3](./preview3.png)
 
-![bosquejo3](./preview3.png)
+![bosquejo3](./Theme3_0.png)
 
 

@@ -3,6 +3,9 @@ Esta nueva personalizacion manera los colores negro y azul como tema principal.
 
 ![preview](./img/preview2.png)
 
+![window1](./preview1.png)
+
+
 #### Installation
 
 Extract the zip file to the themes directory i.e. `/usr/share/themes/` or `~/.themes/` (create it  if necessary).
