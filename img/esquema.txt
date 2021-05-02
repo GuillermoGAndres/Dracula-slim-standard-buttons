@@ -23,7 +23,16 @@ rgba(189, 147, 249)    -> rgba(119, 163, 196)
 Color de letras y iconos
 #bd93f9         ->   #77a3c4
 
+Color de borders en widgets
+rgba(159, 99, 246           -> rgba(95, 129, 157
 
+Color de transicion al presionar un boton
+rgba(174, 123, 248      ->     rgba(213, 138, 106           (es color naranja #d58a6a)
+
+Otro elemento que todavia no se que esquema
+rgba(233, 219, 253        ->  rgba(255, 193, 78            (es color amarillo)
+
+---------------------------------
 gtk-3.20/gtk-dar.css
 Para algunas aplicacion utilizan este archivo es vez del otro como terminal o chrome.
 
@@ -45,3 +54,12 @@ rgba(189, 147, 249)    -> rgba(119, 163, 196)
 
 Color de letras y iconos
 #bd93f9         ->   #77a3c4
+
+Color de borders en widgets
+rgba(159, 99, 246           -> rgba(95, 129, 157
+
+Color de transicion al presionar un boton
+rgba(174, 123, 248      ->     rgba(213, 138, 106           (es color naranja #d58a6a)
+
+Otro elemento que todavia no se que esquema
+rgba(233, 219, 253        ->  rgba(255, 193, 78            (es color amarillo)
